@@ -187,7 +187,7 @@ def checkFile():    # If the program can't read the "headers.txt" file it dosn't
 
 def generate_URLs():                # Generates the headings list from the most vital wikipedia site
     site = webdriver.Firefox(       # Opens the site as a selenium webdriver with the file path to the geckodriver
-        executable_path=r'C:\Users\josef\Mega\Kod\Python\WikipediaToPdf2\geckodriver-v0.21.0-win64\geckodriver.exe')
+        executable_path=GECKODRIVERPATH)
 
     site.get('https://en.wikipedia.org/wiki/Wikipedia:Vital_articles')  # Gets the most vital wikipedia site
 

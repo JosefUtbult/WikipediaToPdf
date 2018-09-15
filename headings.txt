@@ -15,7 +15,7 @@ Elizabeth_I_of_England
 Catherine_the_Great
 George_Washington
 Napoleon
-Sim�n_Bol�var
+Simón_Bolívar
 Abraham_Lincoln
 Vladimir_Lenin
 Mahatma_Gandhi
@@ -67,7 +67,7 @@ Rembrandt
 Hokusai
 Claude_Monet
 Vincent_van_Gogh
-Salvador_Dal�
+Salvador_Dalí
 Pablo_Picasso
 Frida_Kahlo
 Hildegard_of_Bingen
@@ -75,7 +75,7 @@ Johann_Sebastian_Bach
 Wolfgang_Amadeus_Mozart
 Ludwig_van_Beethoven
 Richard_Wagner
-Fr�d�ric_Chopin
+Frédéric_Chopin
 Igor_Stravinsky
 Louis_Armstrong
 Elvis_Presley
@@ -112,7 +112,7 @@ Leonhard_Euler
 Pierre-Simon_Laplace
 Carl_Friedrich_Gauss
 Emmy_Noether
-Kurt_G�del
+Kurt_Gödel
 Alan_Turing
 Confucius
 Herodotus
@@ -122,7 +122,7 @@ Nagarjuna
 Avicenna
 Thomas_Aquinas
 Ibn_Khaldun
-Ren�_Descartes
+René_Descartes
 John_Locke
 Adam_Smith
 Immanuel_Kant
@@ -171,11 +171,7 @@ Ancient_Rome
 Achaemenid_Empire
 Gupta_Empire
 Han_dynasty
-ergtjnhmyjl,
-jthrgsefawd
-dewfarsgthy
 Silk_Road
-feargsthy
 Post-classical_history
 Aztecs
 Inca_Empire
@@ -237,7 +233,7 @@ Mumbai
 New_York_City
 Paris
 Rome
-S�o_Paulo
+São_Paulo
 Tokyo
 Country
 Argentina
@@ -708,7 +704,7 @@ Carbon_dioxide
 Chemical_bond
 Molecule
 Chemical_reaction
-Acid�base_reaction
+Acid–base_reaction
 Catalysis
 Electrolysis
 Ion
