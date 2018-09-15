@@ -20,7 +20,11 @@ To use this software the following is needed:
         5. The time python library
 
 First download the git folder. Then edit the parameters DOWNLOADPATH and GECKODRIVERPATH to refer to the download path and the path to
-the gecko driver. Then run and leave for itself. The program will try to download every instance of headers in the "headers.txt" file,
+the gecko driver. 
+
+Upon execution the program will search for a file named “headers.txt” that contains a list of names of the article it shall download. If you want, you can keep the “headers.txt” file that is included in the project, but if you rather download an up to date version you can just delete the included file. Then the program will fail to find the file and generate a new one from The most vital articles page from Wikipedia. The program will terminate and have generated the “headers.txt” file. Go through the document and make sure that every instance is correct. The generating process makes some mistakes and have a bad time trying to comprehend special characters. When done, execute the program again and let it run. 
+
+The program will try to download every instance of headers in the "headers.txt" file,
 and if is unsuccessful to do so, it will append the header to the "Errors.txt" file  for later inspection and validation.
 
 ## Tips
