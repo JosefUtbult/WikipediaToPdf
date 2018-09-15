@@ -24,6 +24,8 @@ the gecko driver. Then run and leave for itself. The program will try to downloa
 and if is unsuccessful to do so, it will append the header to the "Errors.txt" file  for later inspection and validation.
 
 ## Tips
+You can define a starting value for the program to begin at any index in the “headers.txt” file. Just write the prefered number as an argument upon execution.
+
 As the software needs to open new windows and press button it is not possible to be actively using the same environment as the program.
 I therefore recommend you to run the software on an unused computer or on a virtual machine.
 
