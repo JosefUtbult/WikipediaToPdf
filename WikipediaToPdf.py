@@ -12,7 +12,7 @@ DOWNLOADPATH = r"C:\Users\josef\Downloads"
 # DOWNLOADPATH = r"/home/josef/Downloads"
 
 # Insert the full path to your gecko driver. Theese can be found at https://github.com/mozilla/geckodriver/releases
-GECKODRIVERPATH = r'C:\Users\josef\Mega\Kod\Python\WikipediaToPdf\GeckodriverWindows\geckodriver-v0.21.0-win64\geckodriver.exe'
+GECKODRIVERPATH = r'C:\Users\josef\Mega\Kod\Python\WikipediaToPdf\GeckodriverWindows\geckodriver.exe'
 # GECKODRIVERPATH = '/home/josef/Python scripts/Wikipedia To Pdf/GeckodriverLinux/geckodriver'
 
 def main():
